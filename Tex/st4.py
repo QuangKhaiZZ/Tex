@@ -1,3 +1,4 @@
+# Step 4/7: Bounce the ball 
 import pygame
 import numpy as np
 import math
