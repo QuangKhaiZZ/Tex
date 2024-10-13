@@ -1,3 +1,4 @@
+# Step 5/7: Spin the circle (Draw spinning arc and Add tangential force)
 import pygame
 import numpy as np
 import math
